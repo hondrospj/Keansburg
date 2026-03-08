@@ -30,7 +30,7 @@ jobs:
 
       - name: Run PETSS forecast updater
         env:
-          PETSS_STID: "8531545"   # station
+          PETSS_STID: "8531592"   # station
           PETSS_DATUM: "MLLW"     # metadata only
         run: |
           set -euo pipefail
