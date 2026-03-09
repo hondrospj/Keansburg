@@ -9,7 +9,7 @@
     "majorLow": 5.08
   },
   "method": "crest_anchored_highs_v1",
-  "lastProcessedISO": "2026-03-09T01:06:00.000Z",
+  "lastProcessedISO": "2026-03-09T03:42:00.000Z",
   "events": [
     {
       "t": "2000-10-30T15:12:00.000Z",
@@ -114326,6 +114326,13 @@
       "ft": 1.6,
       "type": "Below",
       "crest": "2026-03-08T15:54:00.000Z",
+      "kind": "CrestHigh"
+    },
+    {
+      "t": "2026-03-09T03:42:00.000Z",
+      "ft": 1.66,
+      "type": "Below",
+      "crest": "2026-03-09T04:18:00.000Z",
       "kind": "CrestHigh"
     }
   ]
